@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Prathamesh1710
+- 👋 Hi, I’m @w7Pratham (Prathamesh Shingne)
 - 👀 I’m interested in Web and Software Development
 - 🌱 I’m currently learning Javascript and C++
 - 📫 How to reach me prathamshingne@gmail.com
