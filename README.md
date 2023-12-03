@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @w7Pratham (Prathamesh Shingne)
-- 👀 I’m interested in Web and Software Development
-- 🌱 I’m currently learning Javascript and C++
+- 👀 I’m interested in DevOps, Web and Software Development
+- 🌱 I’m currently learning DevOps Tools
 - 📫 How to reach me prathamshingne@gmail.com
 
 <!---
